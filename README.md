@@ -1,7 +1,7 @@
 ### Hi, I'm Daniel 👋
-I´m a Backend Developer at Noweb Publicidade. 
+I´m a Backend Developer at Devnology. 
 
-- 🌱 I’m currently learning NodeJS, React and NextJs.
+- 🌱 I’m currently learning NestJs, TypeORM, Prisma and another technologies.
 
  <div>
   <a href="https://github.com/dffs-code">
