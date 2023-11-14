@@ -1,5 +1,5 @@
 ### Hi, I'm Daniel 👋
-I'm a dedicated Backend Developer, passionate about crafting robust and scalable solutions.
+I'm a dedicated Backend Developer, passionate about crafting solutions that solve real-life problems.
 
 - 🌱 Currently mastering NestJs, TypeORM, Prisma, Redis, PostgreSQL, and exploring other cutting-edge technologies.
 
