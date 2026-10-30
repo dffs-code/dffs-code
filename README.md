@@ -8,9 +8,10 @@ que rodam a cerca de 30 mil requisições por minuto, com meta de 99,9% de
 disponibilidade. Isso moldou como eu escrevo tudo o resto: testado,
 observável e sem surpresa em produção.
 
-Também sou a referência do time no uso de IA: agentes que leem código,
-ajudam na triagem de incidentes e entregam alterações com revisão humana
-no meio, documentando o que mudaram depois de aprovado.
+Também faço parte da iniciativa do time que tem como um dos focos
+agentificar o desenvolvimento de software: agentes que leem código, ajudam
+na triagem de incidentes e entregam alterações com revisão humana no meio,
+documentando o que mudaram depois de aprovado.
 
 **Stack**
 - **.NET:** `C#` `.NET 8` `ASP.NET Core` `EF Core` `Dapper` `gRPC` `xUnit`
@@ -53,7 +54,8 @@ around 30k requests per minute, against a 99.9% availability target. That
 shaped how I write everything else: tested, observable, and boring in
 production.
 
-I'm also my team's go-to person for AI: agents that read code, help triage
+I'm also part of a team initiative where one of the focus areas is making
+software development agent-driven: agents that read code, help triage
 incidents, and ship changes with human review in the loop, documenting what
 they changed once it's approved.
 
